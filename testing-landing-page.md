@@ -18,6 +18,10 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: The thing to do
+  content: "<p>This is the best</p>"
 published: false
 
 ---
