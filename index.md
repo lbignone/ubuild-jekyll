@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: testing-landing-page.html
+    link_text: testing
   - link: "/"
     link_text: Ubuild
   - link: "#swap"
