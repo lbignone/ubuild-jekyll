@@ -11,7 +11,7 @@ page_sections:
     link_text: boom
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/06/21/edit.gif"
+  background_image: ''
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
