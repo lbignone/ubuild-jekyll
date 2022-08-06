@@ -40,6 +40,10 @@ page_sections:
       oeigjhaw{wegj askjd glkñasjdñ gjhasoldghdj lkweh gojsakld jglsajd gasjdl ghasjldghd
       awsregjh alkswjhrg laskljndjg asjd gjwpiejg ksd lkgjasiod jhglkasdolg jhwe gnslakd
       gas"
+- template: signup-bar
+  block: cta-bar
+  content: aszdf asdef sad faswe tgwe sad s df
+  email_recipient: lbignone@gmail.com
 published: false
 
 ---
