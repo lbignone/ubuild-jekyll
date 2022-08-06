@@ -22,6 +22,20 @@ page_sections:
   block: text-1
   headline: The thing to do
   content: "<p>This is the best</p>"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: First Column
+    slug: second column
+    content: Theas as das fasdf asd fgasd fasdf asdf
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 published: false
 
 ---
