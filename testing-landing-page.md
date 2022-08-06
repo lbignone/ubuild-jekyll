@@ -8,7 +8,7 @@ page_sections:
   media_alignment: Right
   headline: Is this it?
   slug: maybe it is
-  content: 'dfg dfgdsf garg ar  asdfgasdgsad sd asd '
+  content: 'Dfg dfgdsf garg ar  asdfgasdgsad sd asd '
   media:
     image: ''
     alt_text: ''
