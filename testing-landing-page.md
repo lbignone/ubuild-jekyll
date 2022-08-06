@@ -3,6 +3,12 @@ layout: blocks
 title: TESTING
 date: 2022-08-06 03:00:00 +0000
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2018/06/21/forestry-symbol.svg"
+  navigation:
+  - link: boom
+    link_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
