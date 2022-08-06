@@ -5,7 +5,7 @@ date: 2022-08-06 03:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2018/06/21/forestry-symbol.svg"
+  logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: boom
     link_text: ''
