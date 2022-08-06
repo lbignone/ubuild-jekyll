@@ -69,7 +69,7 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/theme.png"
     alt_text: ''
-  headline: FEATURES
+  headline: "<strong>FEATURES</strong>"
   slug: WHERE PEOPLE SEE
   content: 'asd asd asdf asdf asd fsadf sadf sad '
 published: false
