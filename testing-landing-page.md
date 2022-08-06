@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Testing landing page
+title: TESTING
 date: 2022-08-06 03:00:00 +0000
 page_sections:
 - template: content-feature
