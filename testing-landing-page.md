@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: boom
-    link_text: ''
+    link_text: boom
 - template: content-feature
   block: feature-1
   media_alignment: Right
