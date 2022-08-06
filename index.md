@@ -85,8 +85,8 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2018/06/21/forestry-symbol.svg"
-  col_2: ''
-  col_3: ''
-  col_4: ''
+  col_2: Avenida Siempreviva 1234
+  col_3: lbignone@gmail.com
+  col_4: nada por hacer
 
 ---
