@@ -63,6 +63,15 @@ page_sections:
     url: "#"
   logo: ''
   navigation: []
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2018/06/21/theme.png"
+    alt_text: ''
+  headline: FEATURES
+  slug: WHERE PEOPLE SEE
+  content: 'asd asd asdf asdf asd fsadf sadf sad '
 published: false
 
 ---
