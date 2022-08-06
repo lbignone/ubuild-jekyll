@@ -44,6 +44,13 @@ page_sections:
   block: cta-bar
   content: aszdf asdef sad faswe tgwe sad s df
   email_recipient: lbignone@gmail.com
+- template: navigation-header-w-button
+  block: header-2
+  cta:
+    button_text: fa sdfasdf sad
+    url: "#"
+  logo: ''
+  navigation: []
 published: false
 
 ---
